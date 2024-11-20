@@ -1,6 +1,5 @@
 ```
 /Home
-
   | – application	
     | – static
       | – scripts.js
