@@ -80,7 +80,6 @@ ChatDB is an interactive ChatGPT-like application that assists users in learning
 1. Clone the repository
 ```bash
 git clone [repository-url]
-cd chatdb
 ```
 
 2. Install required dependencies
