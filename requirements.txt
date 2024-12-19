@@ -1,0 +1,5 @@
+flask==2.2.5
+flask_pymongo==2.3.0
+flask_pymysql==0.2.4
+pandas==2.2.3
+numpy==2.1.3
