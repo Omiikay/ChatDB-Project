@@ -62,18 +62,14 @@ ChatDB is an interactive ChatGPT-like application that assists users in learning
 ```
 
 Key directories and files:
-- `app/`: Core application files
+- `app/`: entrance
+- `config/`: Configuration files
+- `database/`: Database connection and API modules
+- `applicatoin/`: Core functionality modules
   - `static/`: CSS, JavaScript, and other static assets
   - `templates/`: HTML templates
   - `utils/`: Helper functions and utilities
-- `config/`: Configuration files
-- `database/`: Database connection and API modules
-- `modules/`: Core functionality modules
-  - `chatbot/`: Chat interface implementation
-  - `query_builder/`: SQL and MongoDB query generation
-  - `sample_generator/`: Query template and sample generation
-- `tests/`: Unit and integration tests
-
+  
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript, jQuery
